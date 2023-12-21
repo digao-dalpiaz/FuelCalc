@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Alert, Button, Card, Col, Container, Row } from "react-bootstrap";
+import { VERSION } from "./defs";
 
 export default function Calc() {
 
@@ -21,7 +22,10 @@ export default function Calc() {
   return (
     <>
       <Container>
-        <h1>Calculadora de Combustível</h1>
+        <Row>
+          <Col><h1>Calculadora de Combustível</h1></Col>
+          <Col md="3">Version {VERSION}</Col>
+        </Row>
 
         <Card>
           <Card.Header>
