@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/FuelCalc/static/js/main.fc93c687.js",
+    "static/js/787.361b140a.chunk.js": "/FuelCalc/static/js/787.361b140a.chunk.js",
+    "index.html": "/FuelCalc/index.html",
+    "main.fc93c687.js.map": "/FuelCalc/static/js/main.fc93c687.js.map",
+    "787.361b140a.chunk.js.map": "/FuelCalc/static/js/787.361b140a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc93c687.js"
+  ]
+}
