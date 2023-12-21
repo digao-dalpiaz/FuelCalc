@@ -24,7 +24,7 @@ export default function Calc() {
       <Container>
         <Row>
           <Col><h1>Calculadora de Combustível</h1></Col>
-          <Col md="3">Version {VERSION}</Col>
+          <Col md="3" className="text-end">Version {VERSION}</Col>
         </Row>
 
         <Card>
