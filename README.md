@@ -1,6 +1,6 @@
 # React App to Calc Car autonomy with Gasoline and Alcohol
 
-Available in: [Fuel Calc](https://fuel.digaodalpiaz.com)
+Available in: [Fuel Calc](https://digao-dalpiaz.github.io/FuelCalc/)
 
 ![Preview](images/example.png)
 
