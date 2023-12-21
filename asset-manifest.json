@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/FuelCalc/static/js/main.726e995d.js",
+    "main.js": "/FuelCalc/static/js/main.2a6113d2.js",
     "index.html": "/FuelCalc/index.html",
-    "main.726e995d.js.map": "/FuelCalc/static/js/main.726e995d.js.map"
+    "main.2a6113d2.js.map": "/FuelCalc/static/js/main.2a6113d2.js.map"
   },
   "entrypoints": [
-    "static/js/main.726e995d.js"
+    "static/js/main.2a6113d2.js"
   ]
 }
